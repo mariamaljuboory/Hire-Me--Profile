@@ -1,0 +1,47 @@
+body {
+    background: #79d2a6;
+}
+.Div1 {
+    display: flex;
+    justify-content:center; 
+    justify-content: space-around;
+    border: dotted;
+    background:#b8b894;
+    color: white;
+}
+.ANH{
+    border: solid;
+    padding: 10px;
+    margin: 10px;
+    padding-bottom: 70px;
+    
+}
+.img{
+    width: 10px;
+    
+}
+.intro{
+     border: solid;
+    padding: 10px;
+    margin: 10px;
+    background: #ffcc99;
+    text-align: center;
+   
+}
+.IOS {
+     border: solid;
+    padding: 10px;
+    margin: 10px;
+    padding-bottom: 70px;
+}
+.Story{
+        border: solid;
+    padding: 10px;
+    margin: 10px;
+    padding-bottom: 70px;
+}
+img {
+    width: 220px;
+    height: 125px;
+   right: 70px;
+}
